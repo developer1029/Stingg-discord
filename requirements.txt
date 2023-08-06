@@ -1,0 +1,6 @@
+discord.py
+asyncio
+python-dotenv
+datetime
+googletrans
+pynacl
