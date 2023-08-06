@@ -7,8 +7,8 @@ Stingg is a multiutility and moderation bot for discord.
 
 1. `Moderation`
 2. `Utility`
-- `Type 's.cmd' for list of all commands.`
-- `Type 's.cmdhelp' for list of all commands with their description.`
+- Type `s.cmd` for list of all commands.
+- Type `s.cmdhelp` for list of all commands with their description.
 
  ------------- 
 
