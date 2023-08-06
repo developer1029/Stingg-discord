@@ -14,8 +14,7 @@ Stingg is a multiutility and moderation bot for discord.
 
 # How to Invite?
 
-#### 1. Click on this [INVITE](https://discord.com/api/oauth2/authorize?client_id=1136780823979360256&permissions=8&scope=bot%20applications.commands
-) button.
+#### 1. Click on this [INVITE](https://discord.com/api/oauth2/authorize?client_id=1136780823979360256&permissions=8&scope=bot%20applications.commands) button.
 
 #### 2. Inviting the Bot:
 | Invite Interface | Selecting the server | Authorizing permissions |
@@ -29,7 +28,8 @@ Stingg is a multiutility and moderation bot for discord.
 
 # Disclaimer
 
-## The bot was initially made with basic utility commands and is not updated with the moderation commands as well. No commands or code was copied from anyone or any repository during the creation of this bot. This bot is wholly and solely the property of the creator. Any user is not adviced to generate copies of this code, whatsoever the reason be.
+## The bot was initially made with basic utility commands and is now updated with the moderation commands as well. No commands or code was copied from anyone or any repository during the creation of this bot. This bot is wholly and solely the property of the creator. Any user is not adviced to generate copies of this code, whatsoever the reason be.
+
 
 ## Contact Me
 
